@@ -2,6 +2,7 @@ Twitter Sentiment Analysis in Google Colab
 This repository contains the code to train a Logistic Regression model for Twitter sentiment analysis. The entire project is designed to be run in a Google Colab environment.
 The model is trained on the Sentiment140 dataset to classify tweets as either Positive or Negative.
 How to Run This Project in Google ColabFollow these steps carefully to run the code in a single Colab session.
+
 Step 1: 
 Open a New Colab NotebookGo to colab.research.google.com.
 Click on "New notebook".
